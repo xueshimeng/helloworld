@@ -1,3 +1,2 @@
 Please include a nice description of your changes when you submit your PR;
-that highlights your title in progress.
-add new line;
+that highlights your content in progress.
