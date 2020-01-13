@@ -1,2 +1,0 @@
-Please include a nice description of your changes when you submit your PR;
-are you ok;
